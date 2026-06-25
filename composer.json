@@ -1,6 +1,6 @@
 {
   "name": "subfission/cas",
-  "description": "Adds CAS support to Laravel 5.x - 12.x",
+  "description": "Adds CAS support to Laravel 5.x - 13.x",
   "keywords": [
     "CAS",
     "phpCAS",
@@ -12,7 +12,8 @@
     "laravel 9",
     "laravel 10",
     "laravel 11",
-    "laravel 12"
+    "laravel 12",
+	"laravel 13"
   ],
   "license": "MIT",
   "authors": [
@@ -23,7 +24,7 @@
   ],
   "require": {
     "php": ">=7.2.0",
-    "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
     "apereo/phpcas": "^1.6",
     "monolog/monolog": "^2.0|^3.0"
   },
